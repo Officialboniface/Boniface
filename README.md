@@ -1,5 +1,5 @@
 Full Name: Boniface Bassey Akpan 
 Email: officialboniface@gmail.com 
-Slack Username: Boniface. 
+Slack Username: Boniface 
 Tracks: Java & Kotlin 
-Course: Mobile Development
+Course: Mobile Development.
